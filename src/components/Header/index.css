@@ -1,0 +1,23 @@
+.logo {
+  width: 70px;
+  height: 30px;
+}
+
+.logout-btn {
+  width: 70px;
+  line-height: 2;
+  background-color: transparent;
+  border: 1px solid #c3cad9;
+  color: #f8fafc;
+}
+
+.nav-container {
+  width: 100%;
+  height: 15%;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 45px;
+  padding-right: 32px;
+}
